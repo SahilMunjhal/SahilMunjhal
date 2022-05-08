@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **projects built on MERN stack**
 
-- 🌱 My learning wish-list includes **Generative art, WebGL and Three.js**
+- 🌱 My learning wish-list includes **React.js,Advance JS and Express**
 
-- 🤝 I’m looking for help with **OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻**
+- 🤝 I’m looking for help with **Twitter Clone. Ping me, if you can guide me. Would be grateful.🌻**
 
 - 💬 Ask me about **javascript, react and mongoDb**
 
